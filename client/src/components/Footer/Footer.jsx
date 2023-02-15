@@ -12,6 +12,8 @@ const Footer = () => {
                         Voluptatem accusantium doloremque laudantium, totam rem
                         aperiam, eaque ipsa quae ab illo inventore veritatis et
                         quasi architecto beatae vitae dicta sunt explicabo eaque
+                        ipsa quae ab illo. illo inventore veritatis et
+                        quasi architecto beatae vitae dicta sunt explicabo eaque
                         ipsa quae ab illo.
                     </div>
                 </div>
